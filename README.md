@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎨 Template Two - Leon Landing Page
 
 📌 This is my **second web development project**, created after following tutorials and practicing with video lessons.
@@ -97,3 +98,8 @@ Template-Two/
 * 🙌 Inspired by the designs and exercises from Eng. Osama Mohamed’s course content.
 
 ---
+=======
+### Demo 
+
+https://elzerowebschool.github.io/HTML_And_CSS_Template_Two/
+>>>>>>> 1bac92323d84dcadc76d7048a5aba5b297057f4c
